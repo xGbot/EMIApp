@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">EMI</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">EMI Calculator</string>
+    <string name="second_fragment_label">Result</string>
+    <string name="calculate">Calculate</string>
+    <string name="previous">Previous</string>
+    <!-- Strings used in UI -->
+    <string name="mortgage">Mortgage Principle Amount</string>
+    <string name="mortgageHint">
+        Please enter amount greater than\n$20,000 and less than $9,000,000
+    </string>
+    <string name="amountHint">Enter amount</string>
+    <string name="interest">Interest Rate</string>
+    <string name="interestHint">Please enter interest rate between 0% and 30%</string>
+    <string name="rateHint">Enter your rate</string>
+    <string name="amortization">Amortization Period</string>
+    <string-array name="period">
+        <item>0.5 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+        <item>6 years</item>
+        <item>7 years</item>
+        <item>8 years</item>
+        <item>9 years</item>
+        <item>10 years</item>
+        <item>11 years</item>
+        <item>12 years</item>
+        <item>13 years</item>
+        <item>14 years</item>
+        <item>15 years</item>
+        <item>16 years</item>
+        <item>17 years</item>
+        <item>18 years</item>
+        <item>19 years</item>
+        <item>20 years</item>
+        <item>21 years</item>
+        <item>22 years</item>
+        <item>23 years</item>
+        <item>24 years</item>
+        <item>25 years</item>
+        <item>26 years</item>
+        <item>27 years</item>
+        <item>28 years</item>
+        <item>29 years</item>
+        <item>30 years</item>
+    </string-array>
+    <!-- Strings used in the second fragment -->
+    <string name="title_activity_second">Results</string>
+    <string name="paymentResults">Payment Results</string>
+    <string name="back">Return</string>
+</resources>
